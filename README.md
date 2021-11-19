@@ -4,17 +4,18 @@
 * [Setup](#setup)
 
 ## General info
-This project is a sample of a switch interrupt on de curiosity nano 4809.
+This project is a sample of a switch interrupt on the curiosity nano 4809.
 	
 ## Technologies
 Project is created with:
-* MplabX v5.50
+* mplabX v5.50
 * xc8 compiler
 	
 ## Setup
 Clone the project and open it on Mplabx or use the provided Makefile
 
 ## Links
+https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide
 https://github.com/microchip-pic-avr-examples?q=atmega4809+cnano
 https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega4809-Curiosity-Nano-HW-UG-DS50002804B.pdf
 https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega4809_Curiosity_Nano_Schematics.pdf
